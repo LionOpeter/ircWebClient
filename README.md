@@ -1,14 +1,14 @@
 # ircWebClient
 1. npm install irc (see ircSuccess)
 - using guide: https://www.youtube.com/watch?v=OuYIlea4j7g
-	create a folder for this project
-	cd into the folder
-	do: sudo npm install irc
-	create a file named: "MyIRCBot.js" and type the text you see in the link:
-		https://pastebin.com/zRNU1b5a
-	you can also find this file in this folder and in /home/liron/Dropbox/newChatThings/webClient/ircSuccess
-	go inside MyIRCBot.js and change the server address and any other configs you think you need
-	in the terminal type: "node MyIRCBot.js" to start the bot
+-- create a folder for this project
+-- cd into the folder
+-- do: sudo npm install irc
+-- create a file named: "MyIRCBot.js" and type the text you see in the link:
+--- https://pastebin.com/zRNU1b5a
+-- you can also find this file in this folder and in /home/liron/Dropbox/newChatThings/webClient/ircSuccess
+--go inside MyIRCBot.js and change the server address and any other configs you think you need
+--in the terminal type: "node MyIRCBot.js" to start the bot
 
 
 2. npm install socketio (see socketioSuccess)	| 
