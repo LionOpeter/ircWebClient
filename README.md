@@ -1,6 +1,6 @@
 # ircWebClient
 1. npm install irc (see ircSuccess)
-1a. using guide: https://www.youtube.com/watch?v=OuYIlea4j7g
+a. using guide: https://www.youtube.com/watch?v=OuYIlea4j7g
 
 -- create a folder for this project\n
 -- cd into the folder
