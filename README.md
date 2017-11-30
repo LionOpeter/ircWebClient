@@ -1,6 +1,8 @@
 # ircWebClient
 1. npm install irc (see ircSuccess)
+
 . using guide: https://www.youtube.com/watch?v=OuYIlea4j7g
+
 -- create a folder for this project
 -- cd into the folder
 -- do: sudo npm install irc
