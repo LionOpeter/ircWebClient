@@ -1,0 +1,12 @@
+Basic functionality features
+1. when the server sends a message from a user - show the user's nick-name and not "server: "
+2. add listener for people who join the channel.
+3. make the client join more than one channel.
+4. when successfully connecting to the server - show a message of good connection
+5. on fail to connect - show a message which indicates that
+6...
+
+New and original ideas
+1. When the user will open the page he will immediatly join the main channel as GuestXXX (like Guest123) and  see who is on and what they are writing.
+2. He will not have the ability to send a message to anyone untill he chooses a nickname for him/her-self.
+3...
